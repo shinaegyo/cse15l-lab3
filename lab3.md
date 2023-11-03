@@ -9,17 +9,17 @@
   public void testReverse2() {
     int[] input1 = {4,3,2,1};
     int[] output1 = ArrayExamples.reversed(input1);
-    assertArrayEquals(new int[] {1,3,4,2}, output1);
+    assertArrayEquals(new int[] {1,2,3,4}, output1);
   }
 ```
 ```
 // Input that Doesn't Induce a Failure
 
   @Test
-  public void testReverse3() {
-    int[] input1 = {4,5,6,7};
+  public void testReverse2() {
+    int[] input1 = {0,0,0,0};
     int[] output1 = ArrayExamples.reversed(input1);
-    assertArrayEquals(new int[] {7,6,5,4}, output1);
+    assertArrayEquals(new int[] {0,0,0,0}, output1);
   }
 ```
 
