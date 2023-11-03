@@ -16,7 +16,7 @@
 // Input that Doesn't Induce a Failure
 
   @Test
-  public void testReverse2() {
+  public void testReverse3() {
     int[] input1 = {0,0,0,0};
     int[] output1 = ArrayExamples.reversed(input1);
     assertArrayEquals(new int[] {0,0,0,0}, output1);
