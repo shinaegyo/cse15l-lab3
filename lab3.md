@@ -65,7 +65,7 @@ The name option is used to search for files or directories based on their names.
 
 The name option is used to search for files or directories based on their names. In `find ./technical/government/Alcohol_Problems - name "Session*"`, it resulted in the same output as the one above with a different path and it is useful because it listed out all the files with the name "Session" for locating the files.
 
-## `type option`
+## `-type option`
 
 <img width="470" alt="-type f" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/acf133c0-6185-4ded-9ac6-840ffccb05af">
 
@@ -79,11 +79,11 @@ The type option is used to specify the type of file to search for such as -type 
 
 <img width="545" alt="-s option Env_Prot_Agen" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/0b64315b-bc01-4114-8e74-57fd2eddb164">
 
-The `-s option` traverses the file hierarchies in alphabetical order within each directory. In `find -s ./technical/government/Env_Prot_Agen` it lists all the files inside the directory in alphabetical order which helps to organize and easily find files.
+The `-s option` traverses the file hierarchies in alphabetical order within each directory. In `find -s ./technical/government/Env_Prot_Agen`, it lists all the files inside the directory in alphabetical order which helps to organize and easily find files.
 
 <img width="533" alt="-s option post_rate_comm" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/19ced74c-71ae-4185-8c68-3d7ed21bf8e8">
 
-The `-s option` traverses the file hierarchies in alphabetical order within each directory. In `find -s ./technical/government/Post_Rate_Comm` it lists all the files inside the directory in alphabetical order which helps to organize and easily find files.
+The `-s option` traverses the file hierarchies in alphabetical order within each directory. In `find -s ./technical/government/Post_Rate_Comm`, it lists all the files inside the directory in alphabetical order which helps to organize and easily find files.
 
 
 ## Works Cited
