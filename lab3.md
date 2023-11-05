@@ -86,5 +86,10 @@ The print option is used to display or print the paths of files or directories t
 The print option is used to display or print the paths of files or directories that match the search as it is the default action of find. In `./technical/government/Post_Rate_Comm/Cohenetal_comparsion.txt` it printed out the name of the file within the directory which is useful for displaying the paths of the files that match the specified criteria.
 
 ## Works Cited
-# ChatGPT
+ChatGPT
 
+<img width="686" alt="-depth option ChatGPT" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/76ff0e63-1778-422e-b847-70abc2b6aa1e">
+
+<img width="675" alt="-name option ChatGPT" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/e571aaa4-87e8-4033-b053-3311b338ae9d">
+
+<img width="679" alt="-type option ChatGPT" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/96a1c3ae-29a5-4093-a66d-4491b733c766">
