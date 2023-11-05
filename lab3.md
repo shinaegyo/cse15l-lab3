@@ -46,11 +46,11 @@ This addresses the issue because the test case `testReverse2` expected value for
 
 <img width="555" alt="Screen Shot 2023-11-04 at 6 57 30 PM" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/4859ee20-129b-44c1-8b6c-b1a915468ca7">
 
-The depth option performs a depth-first search while traversing the directory and lists the files in depth-first search order. The depth option is useful in `./technical/government/Env_Prot_Agen` because it ensured the deppest files were processed first, which is beneficial for specific order of directory processing.
+The depth option performs a depth-first search while traversing the directory and lists the files in depth-first search order. The depth option is useful in `./technical/government/Env_Prot_Agen` because it ensured the deepest files were processed first, which is beneficial for specific order of directory processing.
 
 <img width="540" alt="Screen Shot 2023-11-04 at 6 58 07 PM" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/b81fb189-0393-4984-aa97-ee71b0c7d8d6">
 
-The depth option performs a depth-first search while traversing the directory and lists the files in depth-first search order. The depth option is useful in `./technical/government/About_LSC` because it ensured the deppest files were processed first, which is beneficial for specific order of directory processing.
+The depth option performs a depth-first search while traversing the directory and lists the files in depth-first search order. The depth option is useful in `./technical/government/About_LSC` because it ensured the deepest files were processed first, which is beneficial for specific order of directory processing.
 
 
 `-name option`
@@ -77,11 +77,11 @@ The type option is used to specify the type of file to search for such as -type 
 
 <img width="570" alt="-print option1" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/d9b2b49e-bdca-47fc-954a-e02e2b7c44fe">
 
-The print option is used to display or print the paths of files or directories that match the the search as it is the deafult action of find. In `./technical/government/Post_Rate_Comm` it printed out the name of the files within the directory which is useful for displaying the paths of the files that match the specified criteria.
+The print option is used to display or print the paths of files or directories that match the search as it is the default action of find. In `./technical/government/Post_Rate_Comm` it printed out the name of the files within the directory which is useful for displaying the paths of the files that match the specified criteria.
 
 <img width="728" alt="-print option2" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/335ad9b5-020a-4220-ab03-effedbc30855">
 
-The print option is used to display or print the paths of files or directories that match the the search as it is the deafult action of find. In `./technical/government/Post_Rate_Comm/Cohenetal_comparsion.txt` it printed out the name of the file within the directory which is useful for displaying the paths of the files that match the specified criteria.
+The print option is used to display or print the paths of files or directories that match the search as it is the default action of find. In `./technical/government/Post_Rate_Comm/Cohenetal_comparsion.txt` it printed out the name of the file within the directory which is useful for displaying the paths of the files that match the specified criteria.
 
 
 
