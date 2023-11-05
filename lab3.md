@@ -63,7 +63,7 @@ The name option is used to search for files or directories based on their names.
 
 <img width="636" alt="Screen Shot 2023-11-04 at 6 20 09 PM" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/35317d75-900d-46a0-b314-526e89b8fa83">
 
-The name option is used to search for files or directories based on their names. In `./technical/government/Alcohol_Problems - name "Session*"`, it resulted in the same output as the one above with a different path and it is useful because it listed out all the files with name "Session" for locating the files.
+The name option is used to search for files or directories based on their names. In `./technical/government/Alcohol_Problems - name "Session*"`, it resulted in the same output as the one above with a different path and it is useful because it listed out all the files with the name "Session" for locating the files.
 
 ## `type option`
 
@@ -85,5 +85,6 @@ The print option is used to display or print the paths of files or directories t
 
 The print option is used to display or print the paths of files or directories that match the search as it is the default action of find. In `./technical/government/Post_Rate_Comm/Cohenetal_comparsion.txt` it printed out the name of the file within the directory which is useful for displaying the paths of the files that match the specified criteria.
 
-
+## Works Cited
+# ChatGPT
 
