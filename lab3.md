@@ -75,21 +75,16 @@ The type option is used to specify the type of file to search for such as -type 
 
 The type option is used to specify the type of file to search for such as -type f for searching for regular files and -type d for directories. `In ./technical/911report -type d`, it displayed the directory which helped to see the current directory.
 
-## `print option`
+## `-s option`
 
-<img width="570" alt="-print option1" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/d9b2b49e-bdca-47fc-954a-e02e2b7c44fe">
+<img width="545" alt="-s option Env_Prot_Agen" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/0b64315b-bc01-4114-8e74-57fd2eddb164">
 
-The print option is used to display or print the paths of files or directories that match the search as it is the default action of find. In `./technical/government/Post_Rate_Comm` it printed out the name of the files within the directory which is useful for displaying the paths of the files that match the specified criteria.
+<img width="533" alt="-s option post_rate_comm" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/19ced74c-71ae-4185-8c68-3d7ed21bf8e8">
 
-<img width="728" alt="-print option2" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/335ad9b5-020a-4220-ab03-effedbc30855">
 
-The print option is used to display or print the paths of files or directories that match the search as it is the default action of find. In `./technical/government/Post_Rate_Comm/Cohenetal_comparsion.txt` it printed out the name of the file within the directory which is useful for displaying the paths of the files that match the specified criteria.
 
 ## Works Cited
-ChatGPT
+https://www.unix.com/unix-for-beginners-questions-and-answers/276933-find-depth-how-use.html
+https://www.tecmint.com/35-practical-examples-of-linux-find-command/
+https://snapshooter.com/learn/linux/find
 
-<img width="686" alt="-depth option ChatGPT" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/76ff0e63-1778-422e-b847-70abc2b6aa1e">
-
-<img width="675" alt="-name option ChatGPT" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/e571aaa4-87e8-4033-b053-3311b338ae9d">
-
-<img width="679" alt="-type option ChatGPT" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/96a1c3ae-29a5-4093-a66d-4491b733c766">
