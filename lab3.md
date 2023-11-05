@@ -42,3 +42,23 @@ This addresses the issue because the test case `testReverse2` expected value for
 
 ## Part 2: Researching Commands
 
+`-depth`
+
+<img width="555" alt="Screen Shot 2023-11-04 at 6 57 30 PM" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/4859ee20-129b-44c1-8b6c-b1a915468ca7">
+<img width="540" alt="Screen Shot 2023-11-04 at 6 58 07 PM" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/b81fb189-0393-4984-aa97-ee71b0c7d8d6">
+
+`-name option`
+
+<img width="532" alt="Screen Shot 2023-11-04 at 6 20 17 PM" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/d4f24ca5-2cdf-4552-a381-e7467ef151ce">
+<img width="636" alt="Screen Shot 2023-11-04 at 6 20 09 PM" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/35317d75-900d-46a0-b314-526e89b8fa83">
+
+`type option`
+
+<img width="473" alt="-type d" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/6dbf53d4-9ac1-4d0e-909f-cf19213af80b">
+<img width="470" alt="-type f" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/acf133c0-6185-4ded-9ac6-840ffccb05af">
+
+`print option`
+
+<img width="570" alt="-print option1" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/d9b2b49e-bdca-47fc-954a-e02e2b7c44fe">
+<img width="728" alt="-print option2" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/335ad9b5-020a-4220-ab03-effedbc30855">
+
