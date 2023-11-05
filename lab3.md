@@ -1,6 +1,6 @@
 ### Bugs and Commands
 
-## Part 1: Bugs
+### Part 1: Bugs
 
 ```
 // Failure Inducing Input for Buggy Program
@@ -40,7 +40,9 @@
 
 This addresses the issue because the test case `testReverse2` expected value for it to pass can only be {0,0,0,0} and no positive values. This is because the newArray object that was created sets every index value to 0 and setting arr[i] = to newArray times anything will set the indexes of arr[i] to 0. Therefore, setting newArray[i] = arr[arr.length - i - 1] will also set up a new array and reverse the order of the original array with no errors.
 
-## Part 2: Researching Commands
+### Part 2: Researching Commands
+
+##Find Command
 
 `-depth option`
 
