@@ -42,9 +42,9 @@ This addresses the issue because the test case `testReverse2` expected value for
 
 ### Part 2: Researching Commands
 
-##Find Command
+### Find Command
 
-`-depth option`
+## `-depth option`
 
 <img width="555" alt="Screen Shot 2023-11-04 at 6 57 30 PM" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/4859ee20-129b-44c1-8b6c-b1a915468ca7">
 
@@ -55,7 +55,7 @@ The depth option performs a depth-first search while traversing the directory an
 The depth option performs a depth-first search while traversing the directory and lists the files in depth-first search order. The depth option is useful in `./technical/government/About_LSC` because it ensured the deepest files were processed first, which is beneficial for specific order of directory processing.
 
 
-`-name option`
+## `-name option`
 
 <img width="532" alt="Screen Shot 2023-11-04 at 6 20 17 PM" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/d4f24ca5-2cdf-4552-a381-e7467ef151ce">
 
@@ -65,7 +65,7 @@ The name option is used to search for files or directories based on their names.
 
 The name option is used to search for files or directories based on their names. In `./technical/government/Alcohol_Problems - name "Session*"`, it resulted in the same output as the one above with a different path and it is useful because it listed out all the files with name "Session" for locating the files.
 
-`type option`
+## `type option`
 
 <img width="470" alt="-type f" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/acf133c0-6185-4ded-9ac6-840ffccb05af">
 
@@ -75,7 +75,7 @@ The type option is used to specify the type of file to search for such as -type 
 
 The type option is used to specify the type of file to search for such as -type f for searching for regular files and -type d for directories. `In ./technical/911report -type d`, it displayed the directory which helped to see the current directory.
 
-`print option`
+## `print option`
 
 <img width="570" alt="-print option1" src="https://github.com/shinaegyo/cse15l-lab3/assets/137027086/d9b2b49e-bdca-47fc-954a-e02e2b7c44fe">
 
